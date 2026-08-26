@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it."
+title: "MetaTrader Broker Symbols: measured symbol names, server-time offsets and lot rules across 241 MT4/MT5 brokers"
+abstract: >-
+  A cross-broker lookup table of MetaTrader instrument symbol names, read
+  directly from live MT4 and MT5 trading servers rather than transcribed from
+  broker documentation. Covers 241 brokers and 96 instruments, with 13,777
+  measured symbol names, 240 measured server-time (GMT) offsets, and per-symbol
+  digits, contract size, minimum lot and lot step where the server reported
+  them. Addresses the practical problem that the same instrument carries a
+  different symbol string on nearly every broker, which silently breaks
+  automated trading systems ported between them.
+type: dataset
+authors:
+  - name: "metatraderVPS"
+    website: "https://metatrader-vps.com"
+repository-code: "https://github.com/metatraderVPS/metatrader-broker-symbols"
+url: "https://metatrader-vps.com/broker-data/"
+license: CC-BY-4.0
+keywords:
+  - metatrader
+  - mql4
+  - mql5
+  - algorithmic-trading
+  - expert-advisor
+  - forex
+  - broker-data
+  - symbol-mapping
+  - backtesting
