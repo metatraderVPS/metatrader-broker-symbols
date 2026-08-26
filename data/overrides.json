@@ -8,12 +8,5 @@
         "verified": "2026-01-01"
       }
     }
-  },
-  "xm": {
-    "XAUUSD": {
-      "symbol": "GOLD-OVERRIDE-TEST",
-      "note": "pipeline test",
-      "verified": "2026-08-26"
-    }
   }
 }

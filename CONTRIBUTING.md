@@ -22,6 +22,31 @@ that is the case we would rather list both than pick one.
 Same as above, plus the instruments you can see. A screenshot of Market Watch
 with "Show All" enabled is genuinely the easiest way to send it.
 
+## How corrections survive
+
+The dataset is re-measured automatically and pushed when it changes. A plain
+edit to `data/brokers.json` would therefore be reverted on the next run.
+
+Accepted corrections go into **`data/overrides.json`** instead, which the
+re-measurement applies last and never overwrites:
+
+```json
+{
+  "ic-markets": {
+    "XAUUSD": {
+      "symbol": "XAUUSD.raw",
+      "note": "raw-spread live account, issue #12",
+      "verified": "2026-08-26"
+    }
+  }
+}
+```
+
+Use it when a broker's live or alternative-account configuration genuinely
+differs from the demo server we measure. If you send a PR editing the data
+files directly we will move it here for you - just say which account type you
+are on.
+
 ## Data conventions
 
 - `canonical` is the plain MetaTrader-style name an EA would naively hard-code
