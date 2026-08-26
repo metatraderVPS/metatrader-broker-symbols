@@ -835,7 +835,7 @@ alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,GBPSGD,GBPSGD,,,,
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,GBPUSD,GBPUSD,5,100000,0.01,0.01
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,HK50,HK50,,,,
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,JP225,JP225,,,,
-alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,NAS100,NAS100U6,1,1,0.01,0.01
+alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,NAS100,NAS100,1,1,0.01,0.01
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,NATGAS,NG,,,,
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,NZDCAD,NZDCAD,,,,
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,NZDCHF,NZDCHF,,,,
@@ -845,7 +845,7 @@ alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,NZDUSD,NZDUSD,5,100000,0.01,0.01
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,SP500,US500,1,1,0.1,0.1
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,STOXX50,EU50,,,,
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,US2000,RUS2000,,,,
-alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,US30,US30U6,1,1,0.01,0.01
+alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,US30,US30,1,1,0.01,0.01
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,USDCAD,USDCAD,5,100000,0.01,0.01
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,USDCHF,USDCHF,5,100000,0.01,0.01
 alpari,Alpari,MT5,Alpari-MT5-Demo,3.0,USDCNH,USDCNH,,,,
@@ -1555,11 +1555,11 @@ aus-commercial-limited,AUS Commercial Limited,MT4,AUSCommercial-Demo,0.0,XAUEUR,
 aus-commercial-limited,AUS Commercial Limited,MT4,AUSCommercial-Demo,0.0,XAUUSD,XAUUSD,2,100,0.01,0.01
 aus-commercial-limited,AUS Commercial Limited,MT4,AUSCommercial-Demo,0.0,XPTUSD,XPTUSD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,ASX200,AUS200,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDCAD,AUDCAD.e,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDCAD,AUDCAD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDCHF,AUDCHF,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDJPY,AUDJPY.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDNZD,AUDNZD.d,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDUSD,AUDUSD.d,5,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDJPY,AUDJPY,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDNZD,AUDNZD,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,AUDUSD,AUDUSD,5,100000,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,BCHUSD,BCHUSD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,BRENT,UKOilSpot,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,BTCUSD,BTCUSD,2,10,0.0001,0.0001
@@ -1567,65 +1567,65 @@ ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,CAC40,CAC40,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,CADCHF,CADCHF,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,CADJPY,CADJPY,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,CHFJPY,CHFJPY,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,DAX40,DAX30,1,10,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,DAX40,GER40,1,10,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,ETHUSD,ETHUSD,2,100,0.001,0.001
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURAUD,EURAUD.e,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURCAD,EURCAD.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURCHF,EURCHF.d,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURDKK,EURDKK.e,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURGBP,EURGBP.d,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURHUF,EURHUF.e,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURAUD,EURAUD,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURCAD,EURCAD,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURCHF,EURCHF,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURDKK,EURDKK,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURGBP,EURGBP,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURHUF,EURHUF,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURJPY,EURJPY,3,100000,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURNOK,EURNOK.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURNZD,EURNZD.d,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURNOK,EURNOK,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURNZD,EURNZD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURPLN,EURPLN,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURSEK,EURSEK,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURTRY,EURTRY.e,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURUSD,EURUSD.d,5,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURTRY,EURTRY,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURUSD,EURUSD,5,100000,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,EURZAR,EURZAR,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,FTSE100,FTSE100,2,10,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPAUD,GBPAUD.d,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPCAD,GBPCAD.d,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPCHF,GBPCHF.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPJPY,GBPJPY.SBg,3,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPAUD,GBPAUD,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPCAD,GBPCAD,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPCHF,GBPCHF,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPJPY,GBPJPY,3,100000,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPNOK,GBPNOK,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPNZD,GBPNZD.SBg,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPNZD,GBPNZD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPSEK,GBPSEK,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPSGD,GBPSGD.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPUSD,GBPUSD.d,5,100000,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,HK50,HKG33,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPSGD,GBPSGD,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,GBPUSD,GBPUSD,5,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,HK50,HSI,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,IBEX35,IBEX35,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,JP225,JAPAN_225,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,JP225,JPN225,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,LTCUSD,LTCUSD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NAS100,NAS100,2,10,0.001,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NATGAS,NATURAL_GAS,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NOKSEK,NOKSEK,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NZDCAD,NZDCAD.e,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NZDCAD,NZDCAD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NZDCHF,NZDCHF,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NZDJPY,NZDJPY.d,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NZDUSD,NZDUSD.SBg,5,100000,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,SP500,#SPXL,2,1000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NZDJPY,NZDJPY,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,NZDUSD,NZDUSD,5,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,SP500,SPX500,2,1000,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,STOXX50,EUSTX50,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,US2000,RTYU26,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,US30,US30,2,10,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDCAD,USDCAD.SBg,5,100000,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDCHF,USDCHF.e,5,100000,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDDKK,USDDKK.SBg,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDCAD,USDCAD,5,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDCHF,USDCHF,5,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDDKK,USDDKK,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDHKD,USDHKD,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDHUF,USDHUF.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDILS,USDILS.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDJPY,USDJPY.e,3,100000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDHUF,USDHUF,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDILS,USDILS,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDJPY,USDJPY,3,100000,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDMXN,USDMXN,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDNOK,USDNOK.e,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDNOK,USDNOK,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDPLN,USDPLN,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDRUB,USDRUB.SBg,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDRUB,USDRUB,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDSEK,USDSEK,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDSGD,USDSGD,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDTHB,USDTHB,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDTRY,USDTRY.SBg,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDZAR,USDZAR.e,,,,
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,WTI,CrudeOIL,2,1000,0.01,0.01
-ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,XAGUSD,SILVER.e,3,10000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDTRY,USDTRY,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,USDZAR,USDZAR,,,,
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,WTI,#USO,2,1000,0.01,0.01
+ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,XAGUSD,XAGUSD,3,10000,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,XAUEUR,GOLD/EUR,,,,
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,XAUUSD,GOLD,2,100,0.01,0.01
 ava-trade-ltd,Ava Trade Ltd.,MT5,Ava-Demo 1-MT5,0.0,XPDUSD,PALLADIUM,,,,
@@ -4758,7 +4758,7 @@ fbs,FBS,MT5,FBS-Demo,3.0,USDSGD,USDSGD,,,,
 fbs,FBS,MT5,FBS-Demo,3.0,USDTHB,USDTHB,,,,
 fbs,FBS,MT5,FBS-Demo,3.0,USDTRY,USDTRY,,,,
 fbs,FBS,MT5,FBS-Demo,3.0,USDZAR,USDZAR,,,,
-fbs,FBS,MT5,FBS-Demo,3.0,WTI,#CL,,,,
+fbs,FBS,MT5,FBS-Demo,3.0,WTI,XTIUSD,,,,
 fbs,FBS,MT5,FBS-Demo,3.0,XAGEUR,XAGEUR,,,,
 fbs,FBS,MT5,FBS-Demo,3.0,XAGUSD,XAGUSD,,,,
 fbs,FBS,MT5,FBS-Demo,3.0,XAUEUR,XAUEUR,,,,
@@ -5325,7 +5325,7 @@ forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,GBPSGD,GB
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,GBPUSD,GBPUSD,5,100000,0.01,0.01
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,HK50,HK50,,,,
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,JP225,JP225,,,,
-forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,NAS100,NAS100U6,1,1,0.01,0.01
+forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,NAS100,NAS100,1,1,0.01,0.01
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,NATGAS,NatGas,,,,
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,NZDCAD,NZDCAD,,,,
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,NZDCHF,NZDCHF,,,,
@@ -5335,7 +5335,7 @@ forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,NZDUSD,NZ
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,SP500,US500,1,1,0.1,0.1
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,STOXX50,EU50,,,,
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,US2000,RUS2000,,,,
-forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,US30,US30U6,1,1,0.01,0.01
+forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,US30,US30,1,1,0.01,0.01
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,USDCAD,USDCAD,5,100000,0.01,0.01
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,USDCHF,USDCHF,5,100000,0.01,0.01
 forextime-ltd,ForexTime Ltd.,MT5,ForexTime-Demo01|ForexTime-Demo02,3.0,USDCNH,USDCNH,,,,
@@ -7397,7 +7397,7 @@ ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,NZDJPY,NZDJPY,,,,
 ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,NZDUSD,NZDUSD,,,,
 ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,SEKJPY,SEKJPY,,,,
 ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,SGDJPY,SGDJPY,,,,
-ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,SP500,SPXUSD,,,,
+ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,SP500,US500,,,,
 ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,STOXX50,STOXX50,,,,
 ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,US2000,US2000,,,,
 ic-markets,IC Markets,MT5,ICMarketsSC-MT5-3,3.0,US30,US30,,,,
@@ -9417,7 +9417,7 @@ multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,CADCHF,CADCHF..,,,,
 multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,CADJPY,CADJPY..,,,,
 multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,CHFJPY,CHFJPY..,,,,
 multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,CHFSGD,CHFSGD..,,,,
-multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,DAX40,DAX40U6,,,,
+multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,DAX40,DE40,,,,
 multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,ETHUSD,ETHUSD,,,,
 multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,EURAUD,EURAUD..,,,,
 multibank,MultiBank,MT5,MEXAtlantic-Real,3.0,EURCAD,EURCAD..,,,,
@@ -12065,7 +12065,7 @@ tickmill,Tickmill,MT5,Tickmill-Demo,3.0,USDSEK,USDSEK,,,,
 tickmill,Tickmill,MT5,Tickmill-Demo,3.0,USDSGD,USDSGD,,,,
 tickmill,Tickmill,MT5,Tickmill-Demo,3.0,USDTRY,USDTRY,,,,
 tickmill,Tickmill,MT5,Tickmill-Demo,3.0,USDZAR,USDZAR,,,,
-tickmill,Tickmill,MT5,Tickmill-Demo,3.0,WTI,USO,,,,
+tickmill,Tickmill,MT5,Tickmill-Demo,3.0,WTI,XTIUSD,,,,
 tickmill,Tickmill,MT5,Tickmill-Demo,3.0,XAGUSD,XAGUSD,,,,
 tickmill,Tickmill,MT5,Tickmill-Demo,3.0,XAUEUR,XAUEUR,,,,
 tickmill,Tickmill,MT5,Tickmill-Demo,3.0,XAUUSD,XAUUSD,,,,
@@ -13478,7 +13478,7 @@ xm,XM,MT5,XMGlobal-MT5 6,3.0,GBPUSD,GBPUSD,,,,
 xm,XM,MT5,XMGlobal-MT5 6,3.0,HK50,HK50Cash,,,,
 xm,XM,MT5,XMGlobal-MT5 6,3.0,JP225,JP225Cash,,,,
 xm,XM,MT5,XMGlobal-MT5 6,3.0,LTCUSD,LTCUSD,,,,
-xm,XM,MT5,XMGlobal-MT5 6,3.0,NAS100,Nasdaq,,,,
+xm,XM,MT5,XMGlobal-MT5 6,3.0,NAS100,US100Cash,,,,
 xm,XM,MT5,XMGlobal-MT5 6,3.0,NZDCAD,NZDCAD,,,,
 xm,XM,MT5,XMGlobal-MT5 6,3.0,NZDCHF,NZDCHF,,,,
 xm,XM,MT5,XMGlobal-MT5 6,3.0,NZDJPY,NZDJPY,,,,

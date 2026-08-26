@@ -3567,7 +3567,7 @@
     "digits": 1,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "NAS100U6"
+    "symbol": "NAS100"
    },
    "NATGAS": {
     "symbol": "NG"
@@ -3609,7 +3609,7 @@
     "digits": 1,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "US30U6"
+    "symbol": "US30"
    },
    "USDCAD": {
     "contractSize": 100000,
@@ -6648,23 +6648,23 @@
     "symbol": "AUS200"
    },
    "AUDCAD": {
-    "symbol": "AUDCAD.e"
+    "symbol": "AUDCAD"
    },
    "AUDCHF": {
     "symbol": "AUDCHF"
    },
    "AUDJPY": {
-    "symbol": "AUDJPY.SBg"
+    "symbol": "AUDJPY"
    },
    "AUDNZD": {
-    "symbol": "AUDNZD.d"
+    "symbol": "AUDNZD"
    },
    "AUDUSD": {
     "contractSize": 100000,
     "digits": 5,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "AUDUSD.d"
+    "symbol": "AUDUSD"
    },
    "BCHUSD": {
     "symbol": "BCHUSD"
@@ -6696,7 +6696,7 @@
     "digits": 1,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "DAX30"
+    "symbol": "GER40"
    },
    "ETHUSD": {
     "contractSize": 100,
@@ -6706,22 +6706,22 @@
     "symbol": "ETHUSD"
    },
    "EURAUD": {
-    "symbol": "EURAUD.e"
+    "symbol": "EURAUD"
    },
    "EURCAD": {
-    "symbol": "EURCAD.SBg"
+    "symbol": "EURCAD"
    },
    "EURCHF": {
-    "symbol": "EURCHF.d"
+    "symbol": "EURCHF"
    },
    "EURDKK": {
-    "symbol": "EURDKK.e"
+    "symbol": "EURDKK"
    },
    "EURGBP": {
-    "symbol": "EURGBP.d"
+    "symbol": "EURGBP"
    },
    "EURHUF": {
-    "symbol": "EURHUF.e"
+    "symbol": "EURHUF"
    },
    "EURJPY": {
     "contractSize": 100000,
@@ -6731,10 +6731,10 @@
     "symbol": "EURJPY"
    },
    "EURNOK": {
-    "symbol": "EURNOK.SBg"
+    "symbol": "EURNOK"
    },
    "EURNZD": {
-    "symbol": "EURNZD.d"
+    "symbol": "EURNZD"
    },
    "EURPLN": {
     "symbol": "EURPLN"
@@ -6743,14 +6743,14 @@
     "symbol": "EURSEK"
    },
    "EURTRY": {
-    "symbol": "EURTRY.e"
+    "symbol": "EURTRY"
    },
    "EURUSD": {
     "contractSize": 100000,
     "digits": 5,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "EURUSD.d"
+    "symbol": "EURUSD"
    },
    "EURZAR": {
     "symbol": "EURZAR"
@@ -6763,48 +6763,48 @@
     "symbol": "FTSE100"
    },
    "GBPAUD": {
-    "symbol": "GBPAUD.d"
+    "symbol": "GBPAUD"
    },
    "GBPCAD": {
-    "symbol": "GBPCAD.d"
+    "symbol": "GBPCAD"
    },
    "GBPCHF": {
-    "symbol": "GBPCHF.SBg"
+    "symbol": "GBPCHF"
    },
    "GBPJPY": {
     "contractSize": 100000,
     "digits": 3,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "GBPJPY.SBg"
+    "symbol": "GBPJPY"
    },
    "GBPNOK": {
     "symbol": "GBPNOK"
    },
    "GBPNZD": {
-    "symbol": "GBPNZD.SBg"
+    "symbol": "GBPNZD"
    },
    "GBPSEK": {
     "symbol": "GBPSEK"
    },
    "GBPSGD": {
-    "symbol": "GBPSGD.SBg"
+    "symbol": "GBPSGD"
    },
    "GBPUSD": {
     "contractSize": 100000,
     "digits": 5,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "GBPUSD.d"
+    "symbol": "GBPUSD"
    },
    "HK50": {
-    "symbol": "HKG33"
+    "symbol": "HSI"
    },
    "IBEX35": {
     "symbol": "IBEX35"
    },
    "JP225": {
-    "symbol": "JAPAN_225"
+    "symbol": "JPN225"
    },
    "LTCUSD": {
     "symbol": "LTCUSD"
@@ -6823,27 +6823,27 @@
     "symbol": "NOKSEK"
    },
    "NZDCAD": {
-    "symbol": "NZDCAD.e"
+    "symbol": "NZDCAD"
    },
    "NZDCHF": {
     "symbol": "NZDCHF"
    },
    "NZDJPY": {
-    "symbol": "NZDJPY.d"
+    "symbol": "NZDJPY"
    },
    "NZDUSD": {
     "contractSize": 100000,
     "digits": 5,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "NZDUSD.SBg"
+    "symbol": "NZDUSD"
    },
    "SP500": {
     "contractSize": 1000,
     "digits": 2,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "#SPXL"
+    "symbol": "SPX500"
    },
    "STOXX50": {
     "symbol": "EUSTX50"
@@ -6863,45 +6863,45 @@
     "digits": 5,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "USDCAD.SBg"
+    "symbol": "USDCAD"
    },
    "USDCHF": {
     "contractSize": 100000,
     "digits": 5,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "USDCHF.e"
+    "symbol": "USDCHF"
    },
    "USDDKK": {
-    "symbol": "USDDKK.SBg"
+    "symbol": "USDDKK"
    },
    "USDHKD": {
     "symbol": "USDHKD"
    },
    "USDHUF": {
-    "symbol": "USDHUF.SBg"
+    "symbol": "USDHUF"
    },
    "USDILS": {
-    "symbol": "USDILS.SBg"
+    "symbol": "USDILS"
    },
    "USDJPY": {
     "contractSize": 100000,
     "digits": 3,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "USDJPY.e"
+    "symbol": "USDJPY"
    },
    "USDMXN": {
     "symbol": "USDMXN"
    },
    "USDNOK": {
-    "symbol": "USDNOK.e"
+    "symbol": "USDNOK"
    },
    "USDPLN": {
     "symbol": "USDPLN"
    },
    "USDRUB": {
-    "symbol": "USDRUB.SBg"
+    "symbol": "USDRUB"
    },
    "USDSEK": {
     "symbol": "USDSEK"
@@ -6913,24 +6913,24 @@
     "symbol": "USDTHB"
    },
    "USDTRY": {
-    "symbol": "USDTRY.SBg"
+    "symbol": "USDTRY"
    },
    "USDZAR": {
-    "symbol": "USDZAR.e"
+    "symbol": "USDZAR"
    },
    "WTI": {
     "contractSize": 1000,
     "digits": 2,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "CrudeOIL"
+    "symbol": "#USO"
    },
    "XAGUSD": {
     "contractSize": 10000,
     "digits": 3,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "SILVER.e"
+    "symbol": "XAGUSD"
    },
    "XAUEUR": {
     "symbol": "GOLD/EUR"
@@ -20028,7 +20028,7 @@
     "symbol": "USDZAR"
    },
    "WTI": {
-    "symbol": "#CL"
+    "symbol": "XTIUSD"
    },
    "XAGEUR": {
     "symbol": "XAGEUR"
@@ -22382,7 +22382,7 @@
     "digits": 1,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "NAS100U6"
+    "symbol": "NAS100"
    },
    "NATGAS": {
     "symbol": "NatGas"
@@ -22424,7 +22424,7 @@
     "digits": 1,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "US30U6"
+    "symbol": "US30"
    },
    "USDCAD": {
     "contractSize": 100000,
@@ -31055,7 +31055,7 @@
     "symbol": "SGDJPY"
    },
    "SP500": {
-    "symbol": "SPXUSD"
+    "symbol": "US500"
    },
    "STOXX50": {
     "symbol": "STOXX50"
@@ -39507,7 +39507,7 @@
     "symbol": "CHFSGD.."
    },
    "DAX40": {
-    "symbol": "DAX40U6"
+    "symbol": "DE40"
    },
    "ETHUSD": {
     "symbol": "ETHUSD"
@@ -50926,7 +50926,7 @@
     "symbol": "USDZAR"
    },
    "WTI": {
-    "symbol": "USO"
+    "symbol": "XTIUSD"
    },
    "XAGUSD": {
     "symbol": "XAGUSD"
@@ -56827,7 +56827,7 @@
     "symbol": "LTCUSD"
    },
    "NAS100": {
-    "symbol": "Nasdaq"
+    "symbol": "US100Cash"
    },
    "NZDCAD": {
     "symbol": "NZDCAD"
