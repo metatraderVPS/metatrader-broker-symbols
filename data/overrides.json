@@ -1,0 +1,19 @@
+{
+  "_README": "Human-verified corrections. These ALWAYS win over the automated re-measurement, which otherwise reverts them on its next run. Add an entry when someone reports that a symbol is wrong for the broker they actually trade with - their account type can legitimately differ from the demo server we measure. Key is the broker_slug from symbols.csv; then canonical -> {symbol, note, verified}.",
+  "_EXAMPLE": {
+    "some-broker-slug": {
+      "XAUUSD": {
+        "symbol": "XAUUSD.raw",
+        "note": "raw-spread live account, reported in issue #00",
+        "verified": "2026-01-01"
+      }
+    }
+  },
+  "xm": {
+    "XAUUSD": {
+      "symbol": "GOLD-OVERRIDE-TEST",
+      "note": "pipeline test",
+      "verified": "2026-08-26"
+    }
+  }
+}
