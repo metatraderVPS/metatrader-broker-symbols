@@ -1350,7 +1350,7 @@
     "digits": 2,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "GER30"
+    "symbol": "GER40"
    },
    "ETHUSD": {
     "contractSize": 10,
@@ -29541,16 +29541,16 @@
   ],
   "symbols": {
    "AUDCAD": {
-    "symbol": "AUDCAD"
+    "symbol": "AUDCADx"
    },
    "AUDCHF": {
-    "symbol": "AUDCHF"
+    "symbol": "AUDCHFx"
    },
    "AUDJPY": {
-    "symbol": "AUDJPY"
+    "symbol": "AUDJPYx"
    },
    "AUDNZD": {
-    "symbol": "AUDNZD"
+    "symbol": "AUDNZDx"
    },
    "AUDSGD": {
     "symbol": "AUDSGD"
@@ -29562,43 +29562,43 @@
     "symbol": "UKOIL"
    },
    "CADCHF": {
-    "symbol": "CADCHF"
+    "symbol": "CADCHFx"
    },
    "CADJPY": {
-    "symbol": "CADJPY"
+    "symbol": "CADJPYx"
    },
    "CHFJPY": {
-    "symbol": "CHFJPY"
+    "symbol": "CHFJPYx"
    },
    "CHFSGD": {
     "symbol": "CHFSGD"
    },
    "EURAUD": {
-    "symbol": "EURAUD"
+    "symbol": "EURAUDx"
    },
    "EURCAD": {
-    "symbol": "EURCAD"
+    "symbol": "EURCADx"
    },
    "EURCHF": {
-    "symbol": "EURCHF"
+    "symbol": "EURCHFx"
    },
    "EURDKK": {
     "symbol": "EURDKK"
    },
    "EURGBP": {
-    "symbol": "EURGBP"
+    "symbol": "EURGBPx"
    },
    "EURHUF": {
     "symbol": "EURHUF"
    },
    "EURJPY": {
-    "symbol": "EURJPY"
+    "symbol": "EURJPYx"
    },
    "EURNOK": {
     "symbol": "EURNOK"
    },
    "EURNZD": {
-    "symbol": "EURNZD"
+    "symbol": "EURNZDx"
    },
    "EURPLN": {
     "symbol": "EURPLN"
@@ -29612,20 +29612,23 @@
    "EURZAR": {
     "symbol": "EURZAR"
    },
+   "FTSE100": {
+    "symbol": "UK100x"
+   },
    "GBPAUD": {
-    "symbol": "GBPAUD"
+    "symbol": "GBPAUDx"
    },
    "GBPCAD": {
-    "symbol": "GBPCAD"
+    "symbol": "GBPCADx"
    },
    "GBPCHF": {
-    "symbol": "GBPCHF"
+    "symbol": "GBPCHFx"
    },
    "GBPJPY": {
-    "symbol": "GBPJPY"
+    "symbol": "GBPJPYx"
    },
    "GBPNZD": {
-    "symbol": "GBPNZD"
+    "symbol": "GBPNZDx"
    },
    "GBPPLN": {
     "symbol": "GBPPLN"
@@ -29643,13 +29646,13 @@
     "symbol": "JP225.F"
    },
    "NZDCAD": {
-    "symbol": "NZDCAD"
+    "symbol": "NZDCADx"
    },
    "NZDCHF": {
-    "symbol": "NZDCHF"
+    "symbol": "NZDCHFx"
    },
    "NZDJPY": {
-    "symbol": "NZDJPY"
+    "symbol": "NZDJPYx"
    },
    "NZDUSD": {
     "symbol": "NZDUSD"
@@ -29718,13 +29721,13 @@
     "symbol": "XAGEUR"
    },
    "XAGUSD": {
-    "symbol": "XAGUSD"
+    "symbol": "XAGUSDx"
    },
    "XAUEUR": {
-    "symbol": "XAUEUR"
+    "symbol": "XAUEURx"
    },
    "XAUUSD": {
-    "symbol": "XAUUSD"
+    "symbol": "XAUUSDx"
    },
    "XPDUSD": {
     "symbol": "Palladium"
@@ -39582,7 +39585,7 @@
     "symbol": "LTCUSD"
    },
    "NAS100": {
-    "symbol": "NAS100U6"
+    "symbol": "NAS100Z6"
    },
    "NZDCAD": {
     "symbol": "NZDCAD.."
@@ -55016,6 +55019,9 @@
    },
    "EURSGD": {
     "symbol": "EURSGD"
+   },
+   "EURTRY": {
+    "symbol": "EURTRY"
    },
    "EURUSD": {
     "symbol": "EURUSD"
