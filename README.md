@@ -7,7 +7,7 @@ Gold is `XAUUSD` on 156 brokers, `GOLD` on others, and `XAUUSD.m`, `XAUUSD.s`, `
 This repository contains the real symbol names, read from **241 live MT4/MT5 broker servers** — not scraped from broker marketing pages, not guessed from patterns.
 
 ```
-241 brokers   ·   96 instruments   ·   13,771 measured symbol names   ·   240 GMT offsets
+241 brokers   ·   96 instruments   ·   13,740 measured symbol names   ·   240 GMT offsets
 ```
 
 | | |
@@ -111,7 +111,7 @@ print(m.variants("SP500"))                # every known spelling of the S&P 500
 print(m.gmt_offset("Pepperstone"))        # -> 3.0
 ```
 
-**Just the data** — [`data/symbols.csv`](data/symbols.csv) is a flat 13,771-row table:
+**Just the data** — [`data/symbols.csv`](data/symbols.csv) is a flat 13,740-row table:
 
 ```csv
 broker_slug,broker,platform,servers,gmt_offset,canonical,symbol,digits,contract_size,min_lot,lot_step

@@ -29552,14 +29552,8 @@
    "AUDNZD": {
     "symbol": "AUDNZDx"
    },
-   "AUDSGD": {
-    "symbol": "AUDSGD"
-   },
    "AUDUSD": {
     "symbol": "AUDUSD"
-   },
-   "BRENT": {
-    "symbol": "UKOIL"
    },
    "CADCHF": {
     "symbol": "CADCHFx"
@@ -29570,9 +29564,6 @@
    "CHFJPY": {
     "symbol": "CHFJPYx"
    },
-   "CHFSGD": {
-    "symbol": "CHFSGD"
-   },
    "EURAUD": {
     "symbol": "EURAUDx"
    },
@@ -29582,35 +29573,17 @@
    "EURCHF": {
     "symbol": "EURCHFx"
    },
-   "EURDKK": {
-    "symbol": "EURDKK"
-   },
    "EURGBP": {
     "symbol": "EURGBPx"
-   },
-   "EURHUF": {
-    "symbol": "EURHUF"
    },
    "EURJPY": {
     "symbol": "EURJPYx"
    },
-   "EURNOK": {
-    "symbol": "EURNOK"
-   },
    "EURNZD": {
     "symbol": "EURNZDx"
    },
-   "EURPLN": {
-    "symbol": "EURPLN"
-   },
-   "EURSGD": {
-    "symbol": "EURSGD"
-   },
    "EURUSD": {
     "symbol": "EURUSD"
-   },
-   "EURZAR": {
-    "symbol": "EURZAR"
    },
    "FTSE100": {
     "symbol": "UK100x"
@@ -29630,20 +29603,8 @@
    "GBPNZD": {
     "symbol": "GBPNZDx"
    },
-   "GBPPLN": {
-    "symbol": "GBPPLN"
-   },
-   "GBPSGD": {
-    "symbol": "GBPSGD"
-   },
    "GBPUSD": {
     "symbol": "GBPUSD"
-   },
-   "GBPZAR": {
-    "symbol": "GBPZAR"
-   },
-   "JP225": {
-    "symbol": "JP225.F"
    },
    "NZDCAD": {
     "symbol": "NZDCADx"
@@ -29657,32 +29618,11 @@
    "NZDUSD": {
     "symbol": "NZDUSD"
    },
-   "SGDJPY": {
-    "symbol": "SGDJPY"
-   },
-   "US30": {
-    "symbol": "US30.F"
-   },
    "USDCAD": {
     "symbol": "USDCAD"
    },
    "USDCHF": {
     "symbol": "USDCHF"
-   },
-   "USDCNH": {
-    "symbol": "USDCNH"
-   },
-   "USDCZK": {
-    "symbol": "USDCZK"
-   },
-   "USDDKK": {
-    "symbol": "USDDKK"
-   },
-   "USDHKD": {
-    "symbol": "USDHKD"
-   },
-   "USDHUF": {
-    "symbol": "USDHUF"
    },
    "USDJPY": {
     "symbol": "USDJPY"
@@ -29690,35 +29630,11 @@
    "USDMXN": {
     "symbol": "USDMXN"
    },
-   "USDNOK": {
-    "symbol": "USDNOK"
-   },
-   "USDPLN": {
-    "symbol": "USDPLN"
-   },
-   "USDRUB": {
-    "symbol": "USDRUB"
-   },
-   "USDSEK": {
-    "symbol": "USDSEK"
-   },
-   "USDSGD": {
-    "symbol": "USDSGD"
-   },
    "USDTHB": {
     "symbol": "USDTHB"
    },
-   "USDTRY": {
-    "symbol": "USDTRY"
-   },
    "USDZAR": {
     "symbol": "USDZAR"
-   },
-   "WTI": {
-    "symbol": "USOIL"
-   },
-   "XAGEUR": {
-    "symbol": "XAGEUR"
    },
    "XAGUSD": {
     "symbol": "XAGUSDx"
@@ -29728,15 +29644,6 @@
    },
    "XAUUSD": {
     "symbol": "XAUUSDx"
-   },
-   "XPDUSD": {
-    "symbol": "Palladium"
-   },
-   "XPTUSD": {
-    "symbol": "Platinum"
-   },
-   "ZARJPY": {
-    "symbol": "ZARJPY"
    }
   }
  },
