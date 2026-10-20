@@ -6940,7 +6940,7 @@
     "digits": 2,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "GOLD"
+    "symbol": "XAUUSD"
    },
    "XPDUSD": {
     "symbol": "PALLADIUM"
