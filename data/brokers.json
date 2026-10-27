@@ -19783,7 +19783,7 @@
   "aliases": [
    "FBS"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "FBS",
   "platform": "MT5",
   "servers": [
@@ -22242,7 +22242,7 @@
    "FXTM",
    "ForexTime"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "ForexTime Ltd.",
   "platform": "MT5",
   "servers": [
@@ -23755,7 +23755,7 @@
   "aliases": [
    "FreshForex"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "FreshForex",
   "platform": "MT4",
   "servers": [
@@ -32830,7 +32830,7 @@
   "aliases": [
    "InstaForex"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "InstaForex",
   "platform": "MT4",
   "servers": [
@@ -33719,7 +33719,7 @@
   "aliases": [
    "IronFXCY"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "IronFX",
   "platform": "MT4",
   "servers": [
@@ -36807,7 +36807,7 @@
    "LiteFinance",
    "LiteFinanceMU"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "Litefinance Investment Limited",
   "platform": "MT4",
   "servers": [
@@ -40170,7 +40170,7 @@
   "aliases": [
    "NordFX"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "NordFX",
   "platform": "MT4",
   "servers": [
@@ -40481,7 +40481,7 @@
   "aliases": [
    "OctaFX"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "OctaFX",
   "platform": "MT5",
   "servers": [
@@ -55651,7 +55651,7 @@
   "aliases": [
    "Weltrade"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "Weltrade",
   "platform": "MT4",
   "servers": [
@@ -56594,7 +56594,7 @@
   "aliases": [
    "XMGlobal"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "XM",
   "platform": "MT5",
   "servers": [
@@ -56804,6 +56804,9 @@
    },
    "USDSGD": {
     "symbol": "USDSGD"
+   },
+   "USDTHB": {
+    "symbol": "USDTHB"
    },
    "USDTRY": {
     "symbol": "USDTRY"

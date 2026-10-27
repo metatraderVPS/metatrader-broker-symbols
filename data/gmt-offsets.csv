@@ -78,7 +78,7 @@ exness,Exness,MT5,0.0,UTC+0
 far-east-precious-metal-hk-limited,Far East Precious Metal (HK) Limited,MT4,3.0,UTC+3
 fastone-global-financial-markets-limited,FastOne Global Financial Markets Limited,MT5,1.0,UTC+1
 fastone-markets-limited,Fastone Markets Limited,MT4,1.0,UTC+1
-fbs,FBS,MT5,3.0,UTC+3
+fbs,FBS,MT5,2.0,UTC+2
 finalto-asia-pte-ltd,Finalto Asia Pte. Ltd.,MT4,0.0,UTC+0
 financia-trader-llc,Financia Trader LLC,MT4,2.0,UTC+2
 fintrix-markets-ltd,Fintrix Markets Ltd,MT4,3.0,UTC+3
@@ -87,13 +87,13 @@ first-prudential-markets-ltd,First Prudential Markets Ltd.,MT4,3.0,UTC+3
 fmgp-trading-group-pty-ltd,FMGP Trading Group Pty Ltd,MT4,3.0,UTC+3
 foo-global-markets-limited,Foo Global Markets Limited,MT4,3.0,UTC+3
 forex-club-international-llc,Forex Club International LLC,MT4,3.0,UTC+3
-forextime-ltd,ForexTime Ltd.,MT5,3.0,UTC+3
+forextime-ltd,ForexTime Ltd.,MT5,2.0,UTC+2
 fortrade-limited,Fortrade Limited,MT4,0.0,UTC+0
 fortune-prime-global-capital-pty-ltd,Fortune Prime Global Capital Pty Ltd,MT5,3.0,UTC+3
 fp-markets,FP Markets,MT5,3.0,UTC+3
 fpm-trading-ltd,FPM Trading Ltd.,MT4,3.0,UTC+3
 freefx-llc,FreeFX LLC,MT4,3.0,UTC+3
-freshforex,FreshForex,MT4,3.0,UTC+3
+freshforex,FreshForex,MT4,2.0,UTC+2
 frng-limited,FRNG Limited,MT4,2.0,UTC+2
 fs-international-limited,FS International Limited,MT4,3.0,UTC+3
 ftg-worldwide-f-z-e,FTG Worldwide - F.Z.E,MT4,3.0,UTC+3
@@ -131,10 +131,10 @@ iexs-llc,IEXS LLC,MT4,3.0,UTC+3
 ifcmarkets-corp,IFCMarkets. Corp.,MT4,2.0,UTC+2
 ingot-global-ltd,INGOT Global Ltd.,MT4,3.0,UTC+3
 instafinance-ltd,InstaFinance Ltd,MT4,3.0,UTC+3
-instaforex,InstaForex,MT4,3.0,UTC+3
+instaforex,InstaForex,MT4,2.0,UTC+2
 international-capital-markets-pty-ltd,International Capital Markets Pty Ltd.,MT4,3.0,UTC+3
 invest-az-yatirim-menkul-degerler-a-s,INVEST-AZ Yatirim Menkul Degerler A.S.,MT4,3.0,UTC+3
-ironfx,IronFX,MT4,3.0,UTC+3
+ironfx,IronFX,MT4,2.0,UTC+2
 is6-technologies-ltd,IS6 Technologies Ltd,MT4,3.0,UTC+3
 itradetec-s-a-r-l,iTradeTec S.A.R.L,MT4,3.0,UTC+3
 iux-markets-limited,IUX Markets Limited,MT5,1.0,UTC+1
@@ -146,7 +146,7 @@ kj-glovice-vc-llc,KJ Glovice VC LLC,MT4,3.0,UTC+3
 kohle-capital-markets-limited,Kohle Capital Markets Limited,MT4,3.0,UTC+3
 kumo-markets-limited,Kumo Markets Limited,MT4,3.0,UTC+3
 limited-liability-company-finam-forex,Limited Liability Company ''FINAM FOREX'',MT4,3.0,UTC+3
-litefinance-investment-limited,Litefinance Investment Limited,MT4,3.0,UTC+3
+litefinance-investment-limited,Litefinance Investment Limited,MT4,2.0,UTC+2
 lmax-broker-europe-limited,LMAX Broker Europe Limited,MT4,1.0,UTC+1
 ltg-gold-rock-limited,LTG Gold Rock Limited,MT4,2.0,UTC+2
 marigold-international-bullion-dealers-limited,Marigold International Bullion Dealers Limited,MT4,1.0,UTC+1
@@ -161,9 +161,9 @@ multibank,MultiBank,MT5,3.0,UTC+3
 nagm-v-limited,NAGM (V) Limited,MT4,0.0,UTC+0
 nanhua-singapore-pte-ltd,Nanhua Singapore Pte. Ltd.,MT4,3.0,UTC+3
 nm-technologies-hk-limited,NM Technologies HK Limited,MT4,0.0,UTC+0
-nordfx,NordFX,MT4,3.0,UTC+3
+nordfx,NordFX,MT4,2.0,UTC+2
 oanda-corporation,OANDA Corporation,MT5,3.0,UTC+3
-octafx,OctaFX,MT5,3.0,UTC+3
+octafx,OctaFX,MT5,2.0,UTC+2
 orbex-global-ltd,Orbex Global Ltd,MT4,3.0,UTC+3
 oversea-capital-markets-limited,Oversea Capital Markets Limited,MT4,3.0,UTC+3
 pacific-financial-derivatives-ltd,Pacific Financial Derivatives Ltd.,MT4,3.0,UTC+3
@@ -231,11 +231,11 @@ vantage,Vantage,MT5,3.0,UTC+3
 vatee-pty-limited,Vatee Pty Limited,MT4,3.0,UTC+3
 venbey-yatirim-menkul-degerler-a-s,Venbey Yatirim Menkul Degerler A.S.,MT4,3.0,UTC+3
 vida-markets-limited,Vida Markets Limited,MT4,3.0,UTC+3
-weltrade,Weltrade,MT4,3.0,UTC+3
+weltrade,Weltrade,MT4,2.0,UTC+2
 westfield-premier-solutions-limited,Westfield Premier Solutions Limited,MT4,1.0,UTC+1
 wisuno-limited,Wisuno Limited,MT4,3.0,UTC+3
 world-forex-corp,World Forex Corp.,MT4,3.0,UTC+3
-xm,XM,MT5,3.0,UTC+3
+xm,XM,MT5,2.0,UTC+2
 xs-fintech-ltd,XS Fintech Ltd,MT4,3.0,UTC+3
 ycm-invest-ltd,YCM-Invest Ltd,MT4,0.0,UTC+0
 zero-financial-limited,Zero Financial Limited,MT4,3.0,UTC+3
