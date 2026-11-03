@@ -1294,7 +1294,7 @@
    "ACY",
    "ACYSecurities"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "ACY Securities Pty Ltd",
   "platform": "MT4",
   "servers": [
@@ -3431,7 +3431,7 @@
   "aliases": [
    "Alpari"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "Alpari",
   "platform": "MT5",
   "servers": [
@@ -3459,6 +3459,9 @@
     "lotStep": 0.01,
     "minLot": 0.01,
     "symbol": "AUDUSD"
+   },
+   "BRENT": {
+    "symbol": "BRENTF7"
    },
    "CAC40": {
     "symbol": "FRA40"
@@ -6930,7 +6933,7 @@
     "digits": 3,
     "lotStep": 0.01,
     "minLot": 0.01,
-    "symbol": "XAGUSD"
+    "symbol": "SILVER"
    },
    "XAUEUR": {
     "symbol": "GOLD/EUR"
@@ -10002,7 +10005,7 @@
   "aliases": [
    "BlueberryMarkets"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "Blueberry",
   "platform": "MT5",
   "servers": [
@@ -22990,7 +22993,7 @@
   "aliases": [
    "FPMarketsLtd"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "FP Markets",
   "platform": "MT5",
   "servers": [
@@ -30783,7 +30786,7 @@
   "aliases": [
    "ICMarketsSC"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "IC Markets",
   "platform": "MT5",
   "servers": [
@@ -39367,7 +39370,7 @@
   "aliases": [
    "MEXAtlantic"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "MultiBank",
   "platform": "MT5",
   "servers": [
@@ -43420,7 +43423,7 @@
   "aliases": [
    "mt5live"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "Prometheus",
   "platform": "MT5",
   "servers": [
@@ -50030,7 +50033,7 @@
   "aliases": [
    "ThinkMarkets"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "ThinkMarkets",
   "platform": "MT5",
   "servers": [
@@ -50606,7 +50609,7 @@
   "aliases": [
    "Tickmill"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "Tickmill",
   "platform": "MT5",
   "servers": [
@@ -54842,7 +54845,7 @@
   "aliases": [
    "VantageMarkets"
   ],
-  "gmtOffset": 3.0,
+  "gmtOffset": 2.0,
   "name": "Vantage",
   "platform": "MT5",
   "servers": [

@@ -4,7 +4,7 @@ broker_slug,broker,platform,gmt_offset,label
 aaafx-global-ltd,AAAFx Global Ltd,MT4,3.0,UTC+3
 accm-intl-limited,ACCM Intl Limited,MT4,0.0,UTC+0
 activmarkets-empresa-de-investimento-s-a,"ActivMarkets - Empresa De Investimento, S.A.",MT4,2.0,UTC+2
-acy-securities-pty-ltd,ACY Securities Pty Ltd,MT4,3.0,UTC+3
+acy-securities-pty-ltd,ACY Securities Pty Ltd,MT4,2.0,UTC+2
 adamant-stone-limited,Adamant Stone Limited,MT4,3.0,UTC+3
 adfx-global-limited,ADFX Global Limited,MT4,3.0,UTC+3
 admirals,Admirals,MT5,3.0,UTC+3
@@ -13,7 +13,7 @@ aglobe-investments-ltd,Aglobe Investments Ltd.,MT4,3.0,UTC+3
 agra-markets-llc,Agra Markets LLC,MT4,3.0,UTC+3
 al-salam-bank-b-s-c,Al Salam Bank B.S.C,MT4,2.0,UTC+2
 alchemy-markets-ltd,Alchemy Markets Ltd.,MT4,3.0,UTC+3
-alpari,Alpari,MT5,3.0,UTC+3
+alpari,Alpari,MT5,2.0,UTC+2
 altair-inc-llc,Altair Inc LLC,MT4,3.0,UTC+3
 alvar-financial-services-limited,Alvar Financial Services Limited,MT4,1.0,UTC+1
 amana-capital,Amana Capital,MT4,3.0,UTC+3
@@ -38,7 +38,7 @@ big-solutions-company-limited,BIG Solutions Company Limited,MT4,3.0,UTC+3
 black-bull-group-limited,Black Bull Group Limited,MT4,3.0,UTC+3
 blackwell-global-investments-ltd,Blackwell Global Investments Ltd.,MT4,3.0,UTC+3
 blackwell-global-precious-metals-limited,Blackwell Global Precious Metals Limited,MT4,3.0,UTC+3
-blueberry,Blueberry,MT5,3.0,UTC+3
+blueberry,Blueberry,MT5,2.0,UTC+2
 bmfn-pltd,BMFN PLTD,MT4,-4.0,UTC−4
 broctagon-prime-markets-limited,Broctagon Prime Markets Limited,MT5,3.0,UTC+3
 bullseye-markets-ltd,BullsEye Markets Ltd,MT4,3.0,UTC+3
@@ -90,7 +90,7 @@ forex-club-international-llc,Forex Club International LLC,MT4,3.0,UTC+3
 forextime-ltd,ForexTime Ltd.,MT5,2.0,UTC+2
 fortrade-limited,Fortrade Limited,MT4,0.0,UTC+0
 fortune-prime-global-capital-pty-ltd,Fortune Prime Global Capital Pty Ltd,MT5,3.0,UTC+3
-fp-markets,FP Markets,MT5,3.0,UTC+3
+fp-markets,FP Markets,MT5,2.0,UTC+2
 fpm-trading-ltd,FPM Trading Ltd.,MT4,3.0,UTC+3
 freefx-llc,FreeFX LLC,MT4,3.0,UTC+3
 freshforex,FreshForex,MT4,2.0,UTC+2
@@ -123,7 +123,7 @@ hogg-capital-investments-limited,Hogg Capital Investments Limited,MT4,3.0,UTC+3
 honor-capital-markets-limited,Honor Capital Markets Limited,MT5,4.0,UTC+4
 hycm-capital-markets-uk-limited,HYCM Capital Markets (UK) Limited,MT4,0.0,UTC+0
 ic-funded-evaluations-ltd,IC Funded Evaluations Ltd.,MT5,3.0,UTC+3
-ic-markets,IC Markets,MT5,3.0,UTC+3
+ic-markets,IC Markets,MT5,2.0,UTC+2
 icm-capital-llc,ICM Capital LLC,MT4,1.0,UTC+1
 icm-capital-ltd,ICM Capital Ltd.,MT5,1.0,UTC+1
 icon-tech-pty-ltd,Icon Tech Pty Ltd,MT4,3.0,UTC+3
@@ -157,7 +157,7 @@ mex-global-markets-pte-ltd,MEX Global Markets Pte. Ltd.,MT4,3.0,UTC+3
 mfm-group-limited,MFM Group Limited,MT4,2.0,UTC+2
 midas-fx-ltd,Midas Fx Ltd.,MT4,3.0,UTC+3
 mpf-global-markets-limited,MPF Global Markets Limited,MT4,3.0,UTC+3
-multibank,MultiBank,MT5,3.0,UTC+3
+multibank,MultiBank,MT5,2.0,UTC+2
 nagm-v-limited,NAGM (V) Limited,MT4,0.0,UTC+0
 nanhua-singapore-pte-ltd,Nanhua Singapore Pte. Ltd.,MT4,3.0,UTC+3
 nm-technologies-hk-limited,NM Technologies HK Limited,MT4,0.0,UTC+0
@@ -178,7 +178,7 @@ po-trade-ltd,Po Trade Ltd.,MT4,2.0,UTC+2
 primetime-global-markets-limited,PrimeTime Global Markets Limited,MT4,3.0,UTC+3
 profit-market-hk-limited,Profit Market HK Limited,MT4,8.0,UTC+8
 prolio-consulting-service-limited,Prolio Consulting Service Limited,MT4,3.0,UTC+3
-prometheus,Prometheus,MT5,3.0,UTC+3
+prometheus,Prometheus,MT5,2.0,UTC+2
 pt-arta-mas-futures,PT. Arta Mas Futures,MT4,3.0,UTC+3
 pt-bursa-komoditi-dan-derivatif-indonesia,PT Bursa Komoditi Dan Derivatif Indonesia,MT5,7.0,UTC+7
 pt-century-investment-futures,PT. Century Investment Futures,MT4,2.0,UTC+2
@@ -208,9 +208,9 @@ tela-group-limited,Tela Group Limited,MT4,1.0,UTC+1
 teletrade-d-j-llc,Teletrade D.J. LLC,MT4,2.0,UTC+2
 tenko-systems-limited,Tenko Systems Limited,MT4,3.0,UTC+3
 tfi-markets-ltd,TFI Markets Ltd,MT4,3.0,UTC+3
-thinkmarkets,ThinkMarkets,MT5,3.0,UTC+3
+thinkmarkets,ThinkMarkets,MT5,2.0,UTC+2
 thunder-markets-ltd,Thunder Markets Ltd,MT4,3.0,UTC+3
-tickmill,Tickmill,MT5,3.0,UTC+3
+tickmill,Tickmill,MT5,2.0,UTC+2
 titan-fx-limited,Titan FX Limited,MT4,3.0,UTC+3
 tnfx-ltd,TNFX Ltd.,MT4,2.0,UTC+2
 trade-nation-australia-pty-ltd,Trade Nation Australia Pty Ltd,MT4,1.0,UTC+1
@@ -227,7 +227,7 @@ vaha-financial-services-ltd,Vaha Financial Services Ltd.,MT4,3.0,UTC+3
 vakif-yatirim-menkul-degerler-a-s,Vakif Yatirim Menkul Degerler A.S.,MT4,3.0,UTC+3
 valetax-international-limited,Valetax International Limited,MT4,3.0,UTC+3
 valutrades-limited,Valutrades Limited,MT4,3.0,UTC+3
-vantage,Vantage,MT5,3.0,UTC+3
+vantage,Vantage,MT5,2.0,UTC+2
 vatee-pty-limited,Vatee Pty Limited,MT4,3.0,UTC+3
 venbey-yatirim-menkul-degerler-a-s,Venbey Yatirim Menkul Degerler A.S.,MT4,3.0,UTC+3
 vida-markets-limited,Vida Markets Limited,MT4,3.0,UTC+3
